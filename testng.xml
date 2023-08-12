@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demoqa Website Test Suite">
+    <test verbose="2" preserve-order="true" name="task3.1">
+        <classes>
+            <class name="Tests.AlertsTest"></class>
+            <class name="Tests.IframeTest"></class>
+            <class name="Tests.TablesTest"></class>
+            <class name="Tests.HandlesTest"></class>
+        </classes>
+    </test>
+</suite>

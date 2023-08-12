@@ -1,0 +1,5 @@
+{
+  "browser": "firefox",
+  "defaultWait": "15",
+  "expectedNumberOfWindows": "2"
+}
